@@ -3,12 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\reini\\Fa\u00F1unga 1 - La Comunidad De Los Fa\u00F1ungueros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDF5FD79-2C55-9EC2-4793-CF045D218012}|Assembly-CSharp.csproj|c:\\users\\reini\\fa\u00F1unga 1 - la comunidad de los fa\u00F1ungueros\\assets\\scripts\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDF5FD79-2C55-9EC2-4793-CF045D218012}|Assembly-CSharp.csproj|C:\\Users\\reini\\Fa\u00F1unga 1 - La Comunidad De Los Fa\u00F1ungueros\\assets\\scripts\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDF5FD79-2C55-9EC2-4793-CF045D218012}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDF5FD79-2C55-9EC2-4793-CF045D218012}|Assembly-CSharp.csproj|c:\\users\\reini\\fa\u00F1unga 1 - la comunidad de los fa\u00F1ungueros\\assets\\scripts\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDF5FD79-2C55-9EC2-4793-CF045D218012}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF5FD79-2C55-9EC2-4793-CF045D218012}|Assembly-CSharp.csproj|C:\\Users\\reini\\Fa\u00F1unga 1 - La Comunidad De Los Fa\u00F1ungueros\\assets\\scripts\\drag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF5FD79-2C55-9EC2-4793-CF045D218012}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF5FD79-2C55-9EC2-4793-CF045D218012}|Assembly-CSharp.csproj|c:\\users\\reini\\fa\u00F1unga 1 - la comunidad de los fa\u00F1ungueros\\assets\\scripts\\meleezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF5FD79-2C55-9EC2-4793-CF045D218012}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\meleezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\reini\\OneDrive\\Documents\\GitHub\\Burle-Magico\\Assets\\Scripts\\CardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +29,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MeleeZone.cs",
+              "DocumentMoniker": "C:\\Users\\reini\\Fa\u00F1unga 1 - La Comunidad De Los Fa\u00F1ungueros\\Assets\\Scripts\\MeleeZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MeleeZone.cs",
+              "ToolTip": "C:\\Users\\reini\\Fa\u00F1unga 1 - La Comunidad De Los Fa\u00F1ungueros\\Assets\\Scripts\\MeleeZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MeleeZone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:11:56.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\reini\\OneDrive\\Documents\\GitHub\\Burle-Magico\\Assets\\Scripts\\CardController.cs",
+              "RelativeDocumentMoniker": "..\\OneDrive\\Documents\\GitHub\\Burle-Magico\\Assets\\Scripts\\CardController.cs",
+              "ToolTip": "C:\\Users\\reini\\OneDrive\\Documents\\GitHub\\Burle-Magico\\Assets\\Scripts\\CardController.cs",
+              "RelativeToolTip": "..\\OneDrive\\Documents\\GitHub\\Burle-Magico\\Assets\\Scripts\\CardController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:24:31.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Drag.cs",
+              "DocumentMoniker": "C:\\Users\\reini\\Fa\u00F1unga 1 - La Comunidad De Los Fa\u00F1ungueros\\Assets\\Scripts\\Drag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Drag.cs",
+              "ToolTip": "C:\\Users\\reini\\Fa\u00F1unga 1 - La Comunidad De Los Fa\u00F1ungueros\\Assets\\Scripts\\Drag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Drag.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:14:52.139Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +78,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Draw.cs",
               "ToolTip": "C:\\Users\\reini\\Fa\u00F1unga 1 - La Comunidad De Los Fa\u00F1ungueros\\Assets\\Scripts\\Draw.cs",
               "RelativeToolTip": "Assets\\Scripts\\Draw.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAwAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T19:34:52.251Z",
               "EditorCaption": ""
@@ -41,7 +91,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Hand.cs",
               "ToolTip": "C:\\Users\\reini\\Fa\u00F1unga 1 - La Comunidad De Los Fa\u00F1ungueros\\Assets\\Scripts\\Hand.cs",
               "RelativeToolTip": "Assets\\Scripts\\Hand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T23:38:59.025Z",
               "EditorCaption": ""
